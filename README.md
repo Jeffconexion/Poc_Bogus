@@ -6,7 +6,7 @@
 ### Resume
 
 <p>
-   Projected created with .net 6, web api, VS 2022 community.
+   Projected created with .net 6, web api, VS 2022 community.<br>
    Bogus is a library that I can use to fake human data.
 </p>
 
