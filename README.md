@@ -1,4 +1,4 @@
-<h1 align="center">Poc about libary Bogus</h1>
+<h1 align="center">Poc about library Bogus</h1>
 <p align="center"><i>Repository for versioning Api .</i></p>
 
 ## About this project
